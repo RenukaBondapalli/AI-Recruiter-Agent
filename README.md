@@ -17,7 +17,3 @@ Google Gemini API for Q&A generation
 Streamlit for web interface
 PyMuPDF & PDF Loaders for resume parsing
 
-👥 Team YNOT
-Built as part of ApexNeural Generative AI Hackathon 2025
-Team Lead: Renuka Bondapalli
-Team Members: Prasanna Lakshmi Korada, Pilli Kanya Gowri
